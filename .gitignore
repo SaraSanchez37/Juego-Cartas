@@ -1,0 +1,26 @@
+# Compilados de Java (.class)
+*.class
+
+# Archivos de ejecutables / paquetes
+*.jar
+*.war
+*.ear
+
+# Archivos de logs
+*.log
+
+# Carpetas de compilación de IDEs y herramientas
+bin/
+build/
+target/
+out/
+
+# Configuración de entornos de desarrollo (IDEs)
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+*.nbconst
+build/
+nbproject/private/
